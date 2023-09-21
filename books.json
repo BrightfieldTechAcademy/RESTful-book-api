@@ -1,104 +1,62 @@
 [
     {
         "bookId": "1",
-        "bookName": "Java",
+        "bookTitle": "Java",
         "bookAuthor": "James Gosling",
         "bookPrice": "1000"
     },
     {
         "bookId": "2",
-        "bookName": "C++",
+        "bookTitle": "C++",
         "bookAuthor": "Bjarne Stroustrup",
         "bookPrice": "2000"
     },
     {
         "bookId": "3",
-        "bookName": "C",
+        "bookTitle": "C",
         "bookAuthor": "Dennis Ritchie",
         "bookPrice": "3000"
     },
     {
         "bookId": "4",
-        "bookName": "Python",
+        "bookTitle": "Python",
         "bookAuthor": "Guido van Rossum",
         "bookPrice": "4000"
     },
     {
         "bookId": "5",
-        "bookName": "C#",
+        "bookTitle": "C#",
         "bookAuthor": "Anders Hejlsberg",
         "bookPrice": "5000"
     },
     {
         "bookId": "6",
-        "bookName": "PHP",
+        "bookTitle": "PHP",
         "bookAuthor": "Rasmus Lerdorf",
         "bookPrice": "6000"
     },
     {
         "bookId": "7",
-        "bookName": "JavaScript",
+        "bookTitle": "JavaScript",
         "bookAuthor": "Brendan Eich",
         "bookPrice": "7000"
     },
     {
         "bookId": "8",
-        "bookName": "Ruby",
+        "bookTitle": "Ruby",
         "bookAuthor": "Yukihiro Matsumoto",
         "bookPrice": "8000"
     },
     {
         "bookId": "9",
-        "bookName": "Perl",
+        "bookTitle": "Perl",
         "bookAuthor": "Larry Wall",
         "bookPrice": "9000"
     },
     {
         "bookId": "10",
-        "bookName": "Swift",
+        "bookTitle": "Swift",
         "bookAuthor": "Chris Lattner",
         "bookPrice": "10000"
-    },
-    {
-        "bookId": 11,
-        "bookName": "adsd",
-        "bookAuthor": "adas",
-        "bookPrice": "asdsa"
-    },
-    {
-        "bookId": 12,
-        "bookName": "adsd",
-        "bookAuthor": "adas",
-        "bookPrice": "asdsa"
-    },
-    {
-        "bookId": 13,
-        "bookName": "adsd",
-        "bookAuthor": "adas",
-        "bookPrice": "asdsa"
-    },
-    {
-        "bookId": 14,
-        "bookName": "adsd",
-        "bookAuthor": "adas",
-        "bookPrice": "asdsa"
-    },
-    {
-        "bookId": 15,
-        "bookName": "adsd",
-        "bookAuthor": "adas",
-        "bookPrice": "asdsa"
-    },
-    {
-        "bookId": 16,
-        "bookName": "adsd",
-        "bookAuthor": "adas",
-        "bookPrice": "asdsa"
-    },
-    {
-        "bookId": 17,
-        "bookName": "adsd",
-        "bookAuthor": "adas",
-        "bookPrice": "asdsa"
     }
 ]

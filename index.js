@@ -33,9 +33,9 @@ app.get('/new_book', (req, res) => {
         </head>
         <body>
             <form action="/new_book" method="POST">
-                <lable for="name">Book Name</lable>
-                <input type="text" name="name" placeholder="Enter book name"><br>
-                <lable for="author">Book Name</lable>
+                <lable for="title">Book Title</lable>
+                <input type="text" name="title" placeholder="Enter book title"><br>
+                <lable for="author">Book Author</lable>
                 <input type="text" name="author" placeholder="Enter book author"><br>
                 <lable for="price">Book Price</lable>
                 <input type="text" name="price" placeholder="Enter book price"><br>
@@ -53,7 +53,7 @@ app.post('/new_book', (req, res) => {
         
         let newBook = {
             bookId: books.length + 1,
-            bookName: req.body.name,
+            bookTitle: req.body.title,
             bookAuthor: req.body.author,
             bookPrice: req.body.price
         }
